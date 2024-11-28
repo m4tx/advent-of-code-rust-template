@@ -2,7 +2,9 @@
 
 ## Usage
 
-1. Create a new project from the template repository (TODO: add screenshot).
+1. Create a new project from the template repository:
+   - Using GitHub’s templating feature: Simply click the Use this template [button](https://github.com/new?template_name=advent-of-code-rust-template&template_owner=bravit) on the repository page, create a new repository, and then open it in [RustRover](https://www.jetbrains.com/rust/) by selecting *File | New | Project From Version Control…*.
+   -  Adding the template to RustRover: You can integrate the template directly into RustRover and use the regular New Project wizard.
 
 2. Whenever you're ready to start solving a new day's puzzle:
    - Open the `bin` folder, copy and paste the `NN.rs` file into it, and give it the corresponding name (`01.rs`, `02.rs`, etc.).
